@@ -1,0 +1,29 @@
+{
+	"name": "rns-encrypted-store",
+	"version": "1.0.0",
+	"description": "AES-256-CTR encrypted file storage for microReticulum messages using the identity encryption key",
+	"keywords": "reticulum, encryption, aes, storage, identity",
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "David Konsumer",
+			"url": "https://github.com/konsumer"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/konsumer/arduino-rns-encrypted-store.git"
+	},
+	"dependencies": [
+		{
+			"name": "Crypto",
+			"url": "https://github.com/attermann/Crypto.git"
+		},
+		{
+			"name": "microReticulum",
+			"url": "https://github.com/attermann/microReticulum.git"
+		}
+	],
+	"frameworks": "arduino",
+	"platforms": "*"
+}
