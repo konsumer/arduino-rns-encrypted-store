@@ -100,4 +100,4 @@ Total overhead: 49 bytes beyond the plaintext.
 
 - [attermann/microReticulum](https://github.com/attermann/microReticulum) — `Identity`, `Cryptography::hkdf`, `Cryptography::HMAC`, `Cryptography::random`
 - [attermann/Crypto](https://github.com/attermann/Crypto) — AES256, CTR
-- `SD` — file I/O (Arduino built-in)
+- [attermann/microStore](https://github.com/attermann/microStore) — file I/O

@@ -20,8 +20,8 @@
 			"url": "https://github.com/attermann/Crypto.git"
 		},
 		{
-			"name": "microReticulum",
-			"url": "https://github.com/attermann/microReticulum.git"
+			"name": "microStore",
+			"url": "https://github.com/attermann/microStore.git"
 		}
 	],
 	"frameworks": "arduino",
